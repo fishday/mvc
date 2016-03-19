@@ -1,0 +1,1 @@
+<div class="field"><label for="login">Логин: </label><input name="login" type="text" size="26" maxlength="25" value="" placeholder = <?php echo $data[1] ?> /></div><br/>

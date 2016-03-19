@@ -1,0 +1,82 @@
+#headpicture
+{
+    background-image: url(../images/mckaras.jpg);
+    background-position: center;
+    text-align: center;
+}
+
+.head_bcg
+{
+    background-color: #666;
+    background-position: center;
+    text-align: center;
+}
+
+.head_nav
+{
+    background-color: #4AAAD2;
+}
+
+.head_nav li
+{
+    display: inline-block;
+}
+
+#section_1
+{
+    height: 150px;
+    background-image: url(../images/mckaras.jpg);
+    background-size: cover;
+    background-position: top center;
+}
+
+#section_2
+{
+    /*background-image: url(../images/mckaras.jpg);*/
+    background-color: cyan;
+    background-size: cover;
+    background-position: top center;
+}
+
+
+.regsection
+{
+    padding: 5px;
+    background-color: #fc0;
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+
+.news
+{
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 50px 50% 50px 50px;
+}
+
+.field {
+    clear:both;
+    text-align:right;
+}
+label {float:left; padding-right:10px;}
+
+.promo {float:right;}
+
+#currentnews {
+    background-color: lightgrey;
+}
+
+#currentnews:hover { background-color:lightgreen; }
+
+#mainfooter {
+    text-align: center;
+    font-size: 1.6em;
+    color: blue;
+    background-image: url(../images/karas-footer.jpg);
+    height: 100px;
+}
